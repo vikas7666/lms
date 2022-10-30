@@ -6340,7 +6340,7 @@ div.tl-tree-course-catalog span.dynatree-checkbox::after, div.tl-tree-marketplac
   -o-transform:translateY(280px);
   -ms-transform:translateY(280px);
   transform:translateY(280px);
-  -ms-filter:"progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  /* -ms-filter:"progid: DXImageTransform.Microsoft.Alpha(Opacity=100)"; */
   opacity:1;
   filter:alpha(opacity=100);
   -webkit-transition:all 0.3s ease;
